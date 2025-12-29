@@ -32,7 +32,7 @@
 Я, конечно, по разверу директорий смог найти нужный и достать от туда бинарник, но это все равно не дает мне покоя.
 
 ![dive](./img/dive_terraform.png)
-![tar](./img/terraform.tar.png)
+![tar](./img/terraform_tar.png)
 
 ---
 
